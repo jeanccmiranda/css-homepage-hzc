@@ -3,12 +3,12 @@ Nesse exercício criei uma homepage a partir de um projeto do figma. A homepage 
 
 Nesse exercício pratiquei :
 
-HTML BÁSICO:
+HTML:
 *Tags semânticas
 *Listas 
 *Organização de classes
 
-CSS BÁSICO:
+CSS:
 *Comportamentos padrões e propriedades css dos componentes html
 *Flex
 *Grid
